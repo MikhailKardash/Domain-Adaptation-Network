@@ -2,7 +2,7 @@ Mikhail Kardash
 
 # Implementation of Deep Transfer Metric Learning
 
-## Introdution
+## Introduction
 
 This repository is an implementation of Deep Transfer Metric Learning. The associated research paper is located here:  https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hu_Deep_Transfer_Metric_2015_CVPR_paper.pdf
 
